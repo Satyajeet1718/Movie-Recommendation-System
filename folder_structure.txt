@@ -6,4 +6,5 @@ movie_recommendation_system/
 │   ├── recommender.py
 ├── app.py
 ├── requirements.txt
+├── folder_structure.txt
 └── README.md
