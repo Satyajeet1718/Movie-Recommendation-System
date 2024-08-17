@@ -1,14 +1,5 @@
 # Movie Recommendation System
 File Structure
-movie_recommendation_system/
-├── data/
-│   ├── credits.csv
-│   └── movies.csv
-├── src/
-│   ├── recommender.py
-├── app.py
-├── requirements.txt
-└── README.md
 
 ## Setup
 
