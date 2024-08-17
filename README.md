@@ -1,2 +1,20 @@
-# Movie-Recommendation-System
-Movie recommendation system in Python with content-based filtering with TF-IDF
+# Movie Recommendation System
+
+## Setup
+
+1. Install the required packages:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+2. Run the application:
+    ```sh
+    python app.py
+    ```
+
+## Files
+
+- **data/credits.csv**: The credits dataset.
+- **data/movies.csv**: The movies dataset.
+- **src/recommender.py**: Contains the `MovieRecommender` class for recommending movies.
+- **app.py**: The main script to run the Tkinter application.
